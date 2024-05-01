@@ -1,1 +1,1 @@
-# TIC-TAC-TOE-
+My Tic Tac Toe game project not only enables two players to compete by placing X and O markers on a 3x3 grid but also features to detect winning combinations horizontally, vertically, and diagonally, as well as to identify draw matches.
